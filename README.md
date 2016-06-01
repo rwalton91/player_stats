@@ -1,1 +1,2 @@
 # player_stats
+The code in spin_results.php creates an html form to take input from slot machine players regarding their ID, coins bet, and coins won. The program them accesses a MySQL database to update the player's data and print the updated information on the screen. NOTE: The information to access the MySQL database used has been removed and must be modified for local use. slots.sql includes the MySQL schema.
